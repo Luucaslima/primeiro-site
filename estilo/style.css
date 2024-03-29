@@ -122,3 +122,11 @@ border-radius: 10px 10px 0px 0px;
 font-family: var(--font-padrao);
 margin-top: 30px;
 }
+footer > p a{
+    text-decoration: none;
+
+}
+footer > p a:hover {
+    text-decoration: underline;
+    color: var(--cor5);
+}
